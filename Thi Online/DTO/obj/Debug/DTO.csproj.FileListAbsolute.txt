@@ -1,0 +1,33 @@
+D:\SatraFoods\ThiOnline\DTO\bin\Debug\DTO.dll
+D:\SatraFoods\ThiOnline\DTO\bin\Debug\DTO.pdb
+D:\SatraFoods\ThiOnline\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\SatraFoods\ThiOnline\DTO\obj\Debug\DTO.dll
+D:\SatraFoods\ThiOnline\DTO\obj\Debug\DTO.pdb
+H:\ThiOnline\DTO\bin\Debug\DTO.dll
+H:\ThiOnline\DTO\bin\Debug\DTO.pdb
+H:\ThiOnline\DTO\obj\Debug\ResolveAssemblyReference.cache
+H:\ThiOnline\DTO\obj\Debug\DTO.dll
+H:\ThiOnline\DTO\obj\Debug\DTO.pdb
+E:\Hau\ThiOnline\DTO\bin\Debug\DTO.dll
+E:\Hau\ThiOnline\DTO\bin\Debug\DTO.pdb
+E:\Hau\ThiOnline\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Hau\ThiOnline\DTO\obj\Debug\DTO.dll
+E:\Hau\ThiOnline\DTO\obj\Debug\DTO.pdb
+I:\ThiOnline\DTO\bin\Debug\DTO.dll
+I:\ThiOnline\DTO\bin\Debug\DTO.pdb
+I:\ThiOnline\DTO\obj\Debug\ResolveAssemblyReference.cache
+I:\ThiOnline\DTO\obj\Debug\DTO.dll
+I:\ThiOnline\DTO\obj\Debug\DTO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\DTO\bin\Debug\DTO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\DTO\bin\Debug\DTO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\PC Cty\Alviss\Web\ThiOnline\DTO\obj\Debug\DTO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\DTO\obj\Debug\DTO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DTO\bin\Debug\DTO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DTO\bin\Debug\DTO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DTO\obj\Debug\DTO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DTO\obj\Debug\DTO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\DTO\bin\Debug\DTO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\DTO\bin\Debug\DTO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\DTO\obj\Debug\DTO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,63 @@
+D:\SatraFoods\ThiOnline\DAO\bin\Debug\DAO.dll
+D:\SatraFoods\ThiOnline\DAO\bin\Debug\DAO.pdb
+D:\SatraFoods\ThiOnline\DAO\bin\Debug\DTO.dll
+D:\SatraFoods\ThiOnline\DAO\bin\Debug\DTO.pdb
+D:\SatraFoods\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\SatraFoods\ThiOnline\DAO\obj\Debug\DAO.dll
+D:\SatraFoods\ThiOnline\DAO\obj\Debug\DAO.pdb
+H:\ThiOnline\DAO\bin\Debug\DAO.dll
+H:\ThiOnline\DAO\bin\Debug\DAO.pdb
+H:\ThiOnline\DAO\bin\Debug\DTO.dll
+H:\ThiOnline\DAO\bin\Debug\DTO.pdb
+H:\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+H:\ThiOnline\DAO\obj\Debug\DAO.dll
+H:\ThiOnline\DAO\obj\Debug\DAO.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\bin\Debug\DAO.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\bin\Debug\DAO.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\bin\Debug\DTO.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\bin\Debug\DTO.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\obj\Debug\DAO.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\DAO\obj\Debug\DAO.pdb
+C:\Users\huannt\Desktop\ThiOnline\DAO\bin\Debug\DAO.dll
+C:\Users\huannt\Desktop\ThiOnline\DAO\bin\Debug\DAO.pdb
+C:\Users\huannt\Desktop\ThiOnline\DAO\bin\Debug\DTO.dll
+C:\Users\huannt\Desktop\ThiOnline\DAO\bin\Debug\DTO.pdb
+C:\Users\huannt\Desktop\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huannt\Desktop\ThiOnline\DAO\obj\Debug\DAO.dll
+C:\Users\huannt\Desktop\ThiOnline\DAO\obj\Debug\DAO.pdb
+E:\Hau\ThiOnline\DAO\bin\Debug\DAO.dll
+E:\Hau\ThiOnline\DAO\bin\Debug\DAO.pdb
+E:\Hau\ThiOnline\DAO\bin\Debug\DTO.dll
+E:\Hau\ThiOnline\DAO\bin\Debug\DTO.pdb
+E:\Hau\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\Hau\ThiOnline\DAO\obj\Debug\DAO.dll
+E:\Hau\ThiOnline\DAO\obj\Debug\DAO.pdb
+I:\ThiOnline\DAO\bin\Debug\DAO.dll
+I:\ThiOnline\DAO\bin\Debug\DAO.pdb
+I:\ThiOnline\DAO\bin\Debug\DTO.dll
+I:\ThiOnline\DAO\bin\Debug\DTO.pdb
+I:\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+I:\ThiOnline\DAO\obj\Debug\DAO.dll
+I:\ThiOnline\DAO\obj\Debug\DAO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DAO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DAO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DTO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DTO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\obj\Debug\DAO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\DAO\obj\Debug\DAO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DAO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DAO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DTO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\bin\Debug\DTO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\obj\Debug\DAO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\DAO\obj\Debug\DAO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\bin\Debug\DAO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\bin\Debug\DAO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\bin\Debug\DTO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\bin\Debug\DTO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\obj\Debug\DAO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\DAO\obj\Debug\DAO.pdb

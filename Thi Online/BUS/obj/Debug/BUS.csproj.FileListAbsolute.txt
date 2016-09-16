@@ -1,0 +1,81 @@
+D:\SatraFoods\ThiOnline\BUS\bin\Debug\BUS.dll
+D:\SatraFoods\ThiOnline\BUS\bin\Debug\BUS.pdb
+D:\SatraFoods\ThiOnline\BUS\bin\Debug\DAO.dll
+D:\SatraFoods\ThiOnline\BUS\bin\Debug\DTO.dll
+D:\SatraFoods\ThiOnline\BUS\bin\Debug\DAO.pdb
+D:\SatraFoods\ThiOnline\BUS\bin\Debug\DTO.pdb
+D:\SatraFoods\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\SatraFoods\ThiOnline\BUS\obj\Debug\BUS.dll
+D:\SatraFoods\ThiOnline\BUS\obj\Debug\BUS.pdb
+H:\ThiOnline\BUS\bin\Debug\BUS.dll
+H:\ThiOnline\BUS\bin\Debug\BUS.pdb
+H:\ThiOnline\BUS\bin\Debug\DAO.dll
+H:\ThiOnline\BUS\bin\Debug\DTO.dll
+H:\ThiOnline\BUS\bin\Debug\DAO.pdb
+H:\ThiOnline\BUS\bin\Debug\DTO.pdb
+H:\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+H:\ThiOnline\BUS\obj\Debug\BUS.dll
+H:\ThiOnline\BUS\obj\Debug\BUS.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\bin\Debug\BUS.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\bin\Debug\BUS.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\bin\Debug\DAO.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\bin\Debug\DTO.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\bin\Debug\DAO.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\bin\Debug\DTO.pdb
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\obj\Debug\BUS.dll
+C:\Users\haunp\Desktop\New folder\ThiOnline\BUS\obj\Debug\BUS.pdb
+C:\Users\huannt\Desktop\ThiOnline\BUS\bin\Debug\BUS.dll
+C:\Users\huannt\Desktop\ThiOnline\BUS\bin\Debug\BUS.pdb
+C:\Users\huannt\Desktop\ThiOnline\BUS\bin\Debug\DAO.dll
+C:\Users\huannt\Desktop\ThiOnline\BUS\bin\Debug\DTO.dll
+C:\Users\huannt\Desktop\ThiOnline\BUS\bin\Debug\DAO.pdb
+C:\Users\huannt\Desktop\ThiOnline\BUS\bin\Debug\DTO.pdb
+C:\Users\huannt\Desktop\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\huannt\Desktop\ThiOnline\BUS\obj\Debug\BUS.dll
+C:\Users\huannt\Desktop\ThiOnline\BUS\obj\Debug\BUS.pdb
+E:\Hau\ThiOnline\BUS\bin\Debug\BUS.dll
+E:\Hau\ThiOnline\BUS\bin\Debug\BUS.pdb
+E:\Hau\ThiOnline\BUS\bin\Debug\DAO.dll
+E:\Hau\ThiOnline\BUS\bin\Debug\DTO.dll
+E:\Hau\ThiOnline\BUS\bin\Debug\DAO.pdb
+E:\Hau\ThiOnline\BUS\bin\Debug\DTO.pdb
+E:\Hau\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\Hau\ThiOnline\BUS\obj\Debug\BUS.dll
+E:\Hau\ThiOnline\BUS\obj\Debug\BUS.pdb
+I:\ThiOnline\BUS\bin\Debug\BUS.dll
+I:\ThiOnline\BUS\bin\Debug\BUS.pdb
+I:\ThiOnline\BUS\bin\Debug\DAO.dll
+I:\ThiOnline\BUS\bin\Debug\DTO.dll
+I:\ThiOnline\BUS\bin\Debug\DAO.pdb
+I:\ThiOnline\BUS\bin\Debug\DTO.pdb
+I:\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+I:\ThiOnline\BUS\obj\Debug\BUS.dll
+I:\ThiOnline\BUS\obj\Debug\BUS.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\BUS.dll
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\BUS.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DAO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DTO.dll
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DAO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DTO.pdb
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\obj\Debug\BUS.dll
+E:\PC Cty\Alviss\Web\ThiOnline\BUS\obj\Debug\BUS.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\BUS.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\BUS.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DAO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DTO.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DAO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\bin\Debug\DTO.pdb
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\obj\Debug\BUS.dll
+E:\Satrafoods\PC Cty\Alviss\Web\ThiOnline\BUS\obj\Debug\BUS.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\bin\Debug\BUS.dll
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\bin\Debug\BUS.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\bin\Debug\DAO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\bin\Debug\DTO.dll
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\bin\Debug\DAO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\bin\Debug\DTO.pdb
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\obj\Debug\BUS.dll
+F:\My Projects\Web ThiOnline\ThiOnline\BUS\obj\Debug\BUS.pdb

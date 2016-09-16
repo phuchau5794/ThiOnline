@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+<script type="text/javascript">
+    function myFunction() {
+        window.location = "TrangChu_Page.aspx";
+    }
+</script>
+<html>
+<head>
+    <title>WEBSITE THI ONLINE</title>
+    <link href="CSS/style.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/flyout.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/flyout.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header" style="height:100px">
+            <img alt="" src="IMAGES/head.jpg" width="100%"/>
+            <div class="text">
+                <p>WEBSITE THI ONLINE</p>
+            </div>
+        </div>
+        <div class="main_menu">
+                <ul>
+                    <li><a href="TrangChu_Page.aspx">Trang Chủ</a></li>
+                    <%if (int.Parse(Session["quyenhan"].ToString()) == 1)
+                      { 
+                          %>
+                    <li><a href="#">Hệ Thống</a>
+                        <ul>
+                            <li><a href="TaoTaiKhoan_Page.aspx">Thêm Tài Khoản</a></li>
+                            <li><a href="ImportNhanVien_Page.aspx">Import Tài Khoản</a></li>
+                            <li><a href="DanhSachTaiKhoan_Page.aspx">Danh Sách Tài Khoản</a></li>
+                            <li><a href="ThemPhanLoai_Page.aspx">Thêm Phân Loại Câu Hỏi</a></li>
+                            <li><a href="ThayDoiTiLe_Page.aspx">Thay Đổi Tỉ Lệ Đề Thi</a></li>
+                            <li><a href="ImportDonVi_Page.aspx">Import Đơn Vị Công Tác</a></li>
+                        </ul>
+                    </li>
+                   
+                    <li><a href="#">Câu Hỏi</a>
+                        <ul>
+                            <li><a href="DanhSachCH_Page.aspx">Danh Sách Câu Hỏi</a></li>
+                            <li><a href="ThemCauHoi_Page.aspx">Thêm Câu Hỏi</a></li>
+                            <li><a href="ImportCauHoi_Page.aspx">Import Câu Hỏi</a></li>
+                        </ul>
+                    </li>
+                     <%} %>
+                    <li><a href="ChonBaiThi_Page.aspx">Thi Trắc Nghiệm</a></li>
+                    
+                    <li><a href="">Cá Nhân</a>
+                        <ul>
+                            <%if (int.Parse(Session["quyenhan"].ToString()) == 1)
+                              {%>
+                            <li><a href="ThayDoiMatKhau_Page.aspx">Thay đổi mật khẩu</a></li>
+                            <li><a href="DangXuat_Page.aspx">Đăng xuất</a></li>
+                            <%}
+                              else
+                              { %>
+                              <li><a href="DangXuat_Page.aspx">Đăng xuất</a></li>
+                            <%} %>
+                        </ul>
+                    </li>
+                    <% if (int.Parse(Session["quyenhan"].ToString()) == 1) 
+                       {%>
+                    <li><a href="BangDiem_Page.aspx">Bảng điểm</a></li>
+                     <%} %>
+                </ul>
+                <div class="clear"></div>
+        </div>
+        <div id="body_main">
+            <asp:ContentPlaceHolder ID="content1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="vide"></div>
+        <div id="footer">
+            <p>Copyright © Satrafoods - Designed By Satrafoods's IT Group.</p>
+        </div>
+    </div>
+</body>
+</html>
